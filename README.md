@@ -26,5 +26,5 @@
 <br />
 <br />
 
-[linkedin]: www.linkedin.com/in/sunny-kumar-60a784182
+[linkedin]: https://www.linkedin.com/in/sunny-kumar-60a784182
 [instagram]: https://www.instagram.com/sunny_kumar.sk/
