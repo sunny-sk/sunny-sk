@@ -2,8 +2,8 @@
 
 ## I'm a freelancer web and mobile app developer
 
-- 🌱 I’m currently wroking on a react-native project
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently wroking on a Next.js
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play with electronic gadgets
 
 ### Connect with me
