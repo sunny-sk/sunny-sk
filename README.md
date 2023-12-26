@@ -2,7 +2,9 @@
 
 ## I'm a Professional web and mobile app developer
 
-- 🥅 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working as Sr. Software Engineer @ TFT
+- 💬 Ask me about Web Development
+- 👯 I’m looking to collaborate on open source/commercial projects
 
 
 ### Connect with me
