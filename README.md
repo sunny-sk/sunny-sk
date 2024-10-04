@@ -2,7 +2,7 @@
 
 ## I'm a Professional web and mobile app developer
 
-- 🔭 I’m currently working as Sr. Software Engineer @ TFT
+- 🔭 I’m currently working as Sr. Software Engineer, ready for freelancing
 - 💬 Ask me about Web Development
 - 👯 I’m looking to collaborate on open source/commercial projects
 
