@@ -1,4 +1,4 @@
-### Hi there, I'm sunny
+### Hi there, I'm Sunny Kumar
 
 ## I'm a Professional web and mobile app developer
 
